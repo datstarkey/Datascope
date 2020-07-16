@@ -48,7 +48,7 @@ function App() {
       </Content>
       <Footer style={{ textAlign: "center" }} data-testid="footer">
         © Jake Starkey - Inteded for use as a demonstration Task for Datascope
-        <Button href="https://github.com/datstarkey/DatascopeTask" style={{ marginLeft: 5 }}>
+        <Button href="https://github.com/datstarkey/Datascope" style={{ marginLeft: 5 }}>
           Github
         </Button>
       </Footer>

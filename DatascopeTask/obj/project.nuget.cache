@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "idHcXt+ZMHcvCIL96RPx8ktoAe/KiBY8uYm90Bpuqi8ENQo2vdattPZ6zadxC6cFVP5lCKl1fPbBTj9Ve9VCCQ==",
+  "dgSpecHash": "6bNf2Ia/2+Jk2DGAM57lU6681XVbV3W+8vOJ6X365QEBWJKbmtcgzHLu8IhJPv1YSNyhbIFuW5laL1ecuPgjTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jakes\\source\\repos\\DatascopeTask\\DatascopeTask\\DatascopeTask.csproj",
+  "projectFilePath": "C:\\Users\\jakes\\source\\repos\\Datascope\\DatascopeTask\\DatascopeTask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jakes\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\jakes\\.nuget\\packages\\google.protobuf\\3.6.1\\google.protobuf.3.6.1.nupkg.sha512",

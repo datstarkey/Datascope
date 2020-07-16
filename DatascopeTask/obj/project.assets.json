@@ -7137,11 +7137,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jakes\\source\\repos\\DatascopeTask\\DatascopeTask\\DatascopeTask.csproj",
+      "projectUniqueName": "C:\\Users\\jakes\\source\\repos\\Datascope\\DatascopeTask\\DatascopeTask.csproj",
       "projectName": "DatascopeTask",
-      "projectPath": "C:\\Users\\jakes\\source\\repos\\DatascopeTask\\DatascopeTask\\DatascopeTask.csproj",
+      "projectPath": "C:\\Users\\jakes\\source\\repos\\Datascope\\DatascopeTask\\DatascopeTask.csproj",
       "packagesPath": "C:\\Users\\jakes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jakes\\source\\repos\\DatascopeTask\\DatascopeTask\\obj\\",
+      "outputPath": "C:\\Users\\jakes\\source\\repos\\Datascope\\DatascopeTask\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

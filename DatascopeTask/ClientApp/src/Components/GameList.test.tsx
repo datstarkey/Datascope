@@ -1,8 +1,6 @@
 import React from "react";
 import { shallow, mount } from "enzyme";
 import { GameList } from "./GameList";
-import * as Api from "../Utilities/GamesListApi";
-import { FakeGames } from "../setupTests";
 import { act } from "react-dom/test-utils";
 
 describe("Game List Testing", () => {
