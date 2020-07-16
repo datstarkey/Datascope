@@ -78,3 +78,4 @@ C:\Users\jakes\source\repos\Datascope\DatascopeTask\obj\Release\netcoreapp3.1\st
 C:\Users\jakes\source\repos\Datascope\DatascopeTask\obj\Release\netcoreapp3.1\DatascopeTask.dll
 C:\Users\jakes\source\repos\Datascope\DatascopeTask\obj\Release\netcoreapp3.1\DatascopeTask.pdb
 C:\Users\jakes\source\repos\Datascope\DatascopeTask\obj\Release\netcoreapp3.1\DatascopeTask.genruntimeconfig.cache
+C:\Users\jakes\source\repos\Datascope\DatascopeTask\obj\Release\netcoreapp3.1\DatascopeTask.csprojAssemblyReference.cache
