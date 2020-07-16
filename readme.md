@@ -1,8 +1,8 @@
-#Datascope Interview Task
+# Datascope Interview Task
 
 Please see a demo of this running at (https://datascope.jakestarkey.dev)
 
-##Variables
+## Variables
 
 Please configure the DatascopeTask/appsettings.json with your own SQL string to access your database.
 
