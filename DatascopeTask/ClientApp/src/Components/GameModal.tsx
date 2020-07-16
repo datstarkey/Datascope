@@ -69,7 +69,7 @@ export const GameModal = (props: any) => {
       </Button>
 
       <Modal title="Update or Add Game" visible={modal} onOk={updateGame} confirmLoading={loading} onCancel={() => setModal(false)}>
-        <Form form={form} labelCol={{ span: 4 }} wrapperCol={{ span: 14 }} layout="horizontal" onValuesChange={onFormChange}>
+        <Form form={form} labelCol={{ span: 6 }} wrapperCol={{ span: 14 }} layout="horizontal" onValuesChange={onFormChange}>
           <Form.Item label="Name" name="name" rules={[{ required: true, message: "Game name cannot be blank" }]}>
             <Input id="name-input" />
           </Form.Item>
