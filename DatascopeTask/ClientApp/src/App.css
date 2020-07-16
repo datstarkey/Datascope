@@ -1,0 +1,54 @@
+@import "~antd/dist/antd.css";
+
+.site-layout-content {
+  background: #fff;
+  padding: 24px;
+  min-height: calc(100vh - 135px);
+}
+
+:root {
+  --success: #52c41a;
+  --main-color: #030852;
+}
+
+.alt-color {
+  color: #fff;
+}
+
+.button-success {
+  background: var(--success);
+  border-color: var(--success);
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.grid-item {
+  flex: 1 1 50%;
+  max-width: 33%;
+  padding: 2rem;
+}
+
+.logo {
+  height: 50px;
+}
+
+.card-header {
+  color: white;
+  background: var(--main-color);
+}
+
+@media all and (max-width: 1500px) {
+  .grid-item {
+    max-width: 100%;
+  }
+}
+
+@media all and (max-width: 500px) {
+  .grid-item {
+    max-width: 100%;
+    padding: 2rem 0rem;
+  }
+}
